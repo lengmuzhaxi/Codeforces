@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-	/*int t = 0;
+	int t = 0;
 	cin >> t;
 	while (t--)
 	{
@@ -38,7 +38,6 @@ int main()
 		{
 			cout << "No"<<endl;
 		}
-	}*/
-	cout << (2 & -2);
+	}
 }
 
